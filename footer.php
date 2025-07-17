@@ -6,12 +6,12 @@
                     <span class="sitename">MI Nurul Ulum Sidomukti</span>
                 </a>
                 <div class="footer-contact pt-3">
-                    <p>A108 Adam Street</p>
-                    <p>New York, NY 535022</p>
+                    <p>Prubungan, Sidomukti</p>
+                    <p>Kec. Bungah, Kabupaten Gresik, Jawa Timur</p>
                     <p class="mt-3">
-                        <strong>Phone:</strong> <span>+1 5589 55488 55</span>
+                        <strong>Phone:</strong> <span>08234757483737</span>
                     </p>
-                    <p><strong>Email:</strong> <span>info@example.com</span></p>
+                    <p><strong>Email:</strong> <span>minurulumum@gmail.com</span></p>
                 </div>
                 <div class="social-links d-flex mt-4">
                     <a href=""><i class="bi bi-twitter-x"></i></a>
@@ -22,46 +22,24 @@
             </div>
 
             <div class="col-lg-2 col-md-3 footer-links">
-                <h4>Useful Links</h4>
+                <h4>Menu</h4>
                 <ul>
-                    <li><a href="#">Home</a></li>
-                    <li><a href="#">About us</a></li>
-                    <li><a href="#">Services</a></li>
-                    <li><a href="#">Terms of service</a></li>
-                    <li><a href="#">Privacy policy</a></li>
+                    <li><a href="index">Beranda</a></li>
+                    <li><a href="profil">Profil Sekolah</a></li>
+                    <li><a href="kegiatan">Kegiatan</a></li>
+                    <li><a href="list_guru">Tenaga Pendidik</a></li>
+                    <li><a href="contact">Kontak Kami</a></li>
                 </ul>
             </div>
 
             <div class="col-lg-2 col-md-3 footer-links">
-                <h4>Our Services</h4>
+                <h4>Layanan Kami</h4>
                 <ul>
-                    <li><a href="#">Web Design</a></li>
-                    <li><a href="#">Web Development</a></li>
-                    <li><a href="#">Product Management</a></li>
-                    <li><a href="#">Marketing</a></li>
-                    <li><a href="#">Graphic Design</a></li>
-                </ul>
-            </div>
-
-            <div class="col-lg-2 col-md-3 footer-links">
-                <h4>Hic solutasetp</h4>
-                <ul>
-                    <li><a href="#">Molestiae accusamus iure</a></li>
-                    <li><a href="#">Excepturi dignissimos</a></li>
-                    <li><a href="#">Suscipit distinctio</a></li>
-                    <li><a href="#">Dilecta</a></li>
-                    <li><a href="#">Sit quas consectetur</a></li>
-                </ul>
-            </div>
-
-            <div class="col-lg-2 col-md-3 footer-links">
-                <h4>Nobis illum</h4>
-                <ul>
-                    <li><a href="#">Ipsam</a></li>
-                    <li><a href="#">Laudantium dolorum</a></li>
-                    <li><a href="#">Dinera</a></li>
-                    <li><a href="#">Trodelas</a></li>
-                    <li><a href="#">Flexo</a></li>
+                    <li><a href="bimbingan-konseling">Bimbingan & Konseling</a></li>
+                    <li><a href="perpustakaan">Perpustakaan Sekolah</a></li>
+                    <li><a href="layanan-kesiswaan">Layanan Kesiswaan</a></li>
+                    <li><a href="layanan-keagamaan">Layanan Keagamaan</a></li>
+                    <li><a href="kegiatan-ekstra">Kegiatan Ekstrakurikuler</a></li>
                 </ul>
             </div>
         </div>
@@ -78,7 +56,7 @@
             <!-- You can delete the links only if you've purchased the pro version. -->
             <!-- Licensing information: https://bootstrapmade.com/license/ -->
             <!-- Purchase the pro version with working PHP/AJAX contact form: [buy-url] -->
-            Designed by <a href="https://saichulhuda.lovestoblog.com">Saichul Huda</a>
+            Designed by <a href="https://saichulhuda.lovestoblog.com" target="_blank">Saichul Huda</a>
         </div>
     </div>
 </footer>
