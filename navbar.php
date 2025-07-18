@@ -50,7 +50,7 @@ $current_page = basename($_SERVER['PHP_SELF'], ".php");
                             <li><a href="pengumuman">Pengumuman</a></li>
                         </ul>
                     </li> -->
-                    <li><a href="contact">Kontak Kami</a></li>
+                    <li><a href="contact" class="<?= ($current_page == 'contact') ? 'active' : '' ?>">Kontak Kami</a></li>
                 </ul>
                 <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
             </nav>
