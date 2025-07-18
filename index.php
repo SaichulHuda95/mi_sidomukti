@@ -165,17 +165,72 @@
                 <h2>Galeri Kegiatan</h2>
                 <p>Dokumentasi aktivitas siswa di MI Nurul Ulum Sidomukti</p>
             </div>
-            <div class="row g-3">
-                <div class="col-md-4" data-aos="zoom-in">
-                    <img src="assets/img/app/master_bg.jpg" class="img-fluid rounded" alt="Kegiatan 1">
-                </div>
-                <div class="col-md-4" data-aos="zoom-in" data-aos-delay="100">
-                    <img src="assets/img/app/master_bg.jpg" class="img-fluid rounded" alt="Kegiatan 2">
-                </div>
-                <div class="col-md-4" data-aos="zoom-in" data-aos-delay="200">
-                    <img src="assets/img/app/master_bg.jpg" class="img-fluid rounded" alt="Kegiatan 3">
+            <div class="row g-3" data-aos="fade-up">
+                <!-- Swiper -->
+                <div class="swiper gallerySwiper">
+                    <div class="swiper-wrapper">
+                        <!-- Slide 1 -->
+                        <div class="swiper-slide">
+                            <div class="gallery-item rounded overflow-hidden shadow-sm">
+                                <img src="assets/img/app/master_bg.jpg" alt="Upacara Bendera" class="img-fluid w-100">
+                            </div>
+                        </div>
+
+                        <!-- Slide 2 -->
+                        <div class="swiper-slide">
+                            <div class="gallery-item rounded overflow-hidden shadow-sm">
+                                <img src="assets/img/app/master_bg.jpg" alt="Belajar di Kelas" class="img-fluid w-100">
+                            </div>
+                        </div>
+
+                        <!-- Slide 3 -->
+                        <div class="swiper-slide">
+                            <div class="gallery-item rounded overflow-hidden shadow-sm">
+                                <img src="assets/img/app/master_bg.jpg" alt="Lomba Agustusan" class="img-fluid w-100">
+                            </div>
+                        </div>
+
+                        <!-- Slide 4 -->
+                        <div class="swiper-slide">
+                            <div class="gallery-item rounded overflow-hidden shadow-sm">
+                                <img src="assets/img/app/master_bg.jpg" alt="Shalat Berjamaah" class="img-fluid w-100">
+                            </div>
+                        </div>
+
+                        <!-- Slide 4 -->
+                        <div class="swiper-slide">
+                            <div class="gallery-item rounded overflow-hidden shadow-sm">
+                                <img src="assets/img/app/master_bg.jpg" alt="Shalat Berjamaah" class="img-fluid w-100">
+                            </div>
+                        </div>
+
+                        <!-- Slide 4 -->
+                        <div class="swiper-slide">
+                            <div class="gallery-item rounded overflow-hidden shadow-sm">
+                                <img src="assets/img/app/master_bg.jpg" alt="Shalat Berjamaah" class="img-fluid w-100">
+                            </div>
+                        </div>
+
+                        <!-- Slide 4 -->
+                        <div class="swiper-slide">
+                            <div class="gallery-item rounded overflow-hidden shadow-sm">
+                                <img src="assets/img/app/master_bg.jpg" alt="Shalat Berjamaah" class="img-fluid w-100">
+                            </div>
+                        </div>
+
+                        <!-- Slide 4 -->
+                        <div class="swiper-slide">
+                            <div class="gallery-item rounded overflow-hidden shadow-sm">
+                                <img src="assets/img/app/master_bg.jpg" alt="Shalat Berjamaah" class="img-fluid w-100">
+                            </div>
+                        </div>
+
+                        <!-- Tambahkan slide sesuai kebutuhan -->
+                    </div>
+                    <div class="swiper-pagination mt-4"></div>
                 </div>
             </div>
+        </div>
         </div>
     </section>
 
@@ -312,12 +367,24 @@
         </div>
     </section>
 
-    <!-- Call to Action -->
-    <section class="cta section text-center dark-secondary">
-        <div class="container" data-aos="fade-up">
-            <h2>Yuk Daftarkan Putra-Putri Anda Sekarang!</h2>
-            <p>Jadilah bagian dari keluarga besar MI Nurul Ulum Sidomukti. Masa depan cerah dimulai dari sini.</p>
-            <a href="contact" class=" btn btn-primary">Hubungi Kami</a>
+    <!-- CTA -->
+    <section id="students-life" class="students-life section">
+        <div class="container" data-aos="fade-up" data-aos-delay="100">
+            <div class="cta-wrapper mt-5" data-aos="fade-up" data-aos-delay="200">
+                <div class="cta-content">
+                    <div class="row align-items-center">
+                        <div class="col-lg-8" data-aos="fade-right" data-aos-delay="300">
+                            <h3>Yuk Daftarkan Putra-Putri Anda Sekarang!</h3>
+                            <p>Jadilah bagian dari keluarga besar MI Nurul Ulum Sidomukti. Masa depan cerah dimulai dari sini.</p>
+                        </div>
+                        <div class="col-lg-4" data-aos="fade-left" data-aos-delay="400">
+                            <div class="cta-buttons">
+                                <a href="contact" class="btn btn-primary">Hubungi Kami</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
         </div>
     </section>
 

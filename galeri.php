@@ -19,74 +19,57 @@
 
     <!-- Galeri Section -->
     <section class="section py-5 bg-light">
-        <div class="container-fluid px-4" data-aos="fade-up">
-            <div class="section-title text-center mb-5">
+        <div class="container-fluid px-4">
+            <div class="section-title text-center mb-5" data-aos="fade-up">
                 <h2 class="mb-3">Galeri Kegiatan</h2>
                 <p>Dokumentasi berbagai kegiatan menarik dan inspiratif di MI Nurul Ulum Sidomukti.</p>
             </div>
 
-            <!-- Swiper -->
-            <div class="swiper gallerySwiper">
-                <div class="swiper-wrapper">
-                    <!-- Slide 1 -->
-                    <div class="swiper-slide">
-                        <div class="gallery-item rounded overflow-hidden shadow-sm">
-                            <img src="assets/img/app/master_bg.jpg" alt="Upacara Bendera" class="img-fluid w-100">
-                        </div>
+            <div class="row">
+                <div class="col-md-4 mb-3" data-aos="zoom-out">
+                    <div class="rounded overflow-hidden shadow-sm">
+                        <img src="assets/img/app/master_bg.jpg" alt="Upacara Bendera" class="img-fluid w-100">
                     </div>
-
-                    <!-- Slide 2 -->
-                    <div class="swiper-slide">
-                        <div class="gallery-item rounded overflow-hidden shadow-sm">
-                            <img src="assets/img/app/master_bg.jpg" alt="Belajar di Kelas" class="img-fluid w-100">
-                        </div>
-                    </div>
-
-                    <!-- Slide 3 -->
-                    <div class="swiper-slide">
-                        <div class="gallery-item rounded overflow-hidden shadow-sm">
-                            <img src="assets/img/app/master_bg.jpg" alt="Lomba Agustusan" class="img-fluid w-100">
-                        </div>
-                    </div>
-
-                    <!-- Slide 4 -->
-                    <div class="swiper-slide">
-                        <div class="gallery-item rounded overflow-hidden shadow-sm">
-                            <img src="assets/img/app/master_bg.jpg" alt="Shalat Berjamaah" class="img-fluid w-100">
-                        </div>
-                    </div>
-
-                    <!-- Slide 4 -->
-                    <div class="swiper-slide">
-                        <div class="gallery-item rounded overflow-hidden shadow-sm">
-                            <img src="assets/img/app/master_bg.jpg" alt="Shalat Berjamaah" class="img-fluid w-100">
-                        </div>
-                    </div>
-
-                    <!-- Slide 4 -->
-                    <div class="swiper-slide">
-                        <div class="gallery-item rounded overflow-hidden shadow-sm">
-                            <img src="assets/img/app/master_bg.jpg" alt="Shalat Berjamaah" class="img-fluid w-100">
-                        </div>
-                    </div>
-
-                    <!-- Slide 4 -->
-                    <div class="swiper-slide">
-                        <div class="gallery-item rounded overflow-hidden shadow-sm">
-                            <img src="assets/img/app/master_bg.jpg" alt="Shalat Berjamaah" class="img-fluid w-100">
-                        </div>
-                    </div>
-
-                    <!-- Slide 4 -->
-                    <div class="swiper-slide">
-                        <div class="gallery-item rounded overflow-hidden shadow-sm">
-                            <img src="assets/img/app/master_bg.jpg" alt="Shalat Berjamaah" class="img-fluid w-100">
-                        </div>
-                    </div>
-
-                    <!-- Tambahkan slide sesuai kebutuhan -->
                 </div>
-                <div class="swiper-pagination mt-4"></div>
+                <div class="col-md-4 mb-3" data-aos="zoom-out">
+                    <div class="rounded overflow-hidden shadow-sm">
+                        <img src="assets/img/app/master_bg.jpg" alt="Upacara Bendera" class="img-fluid w-100">
+                    </div>
+                </div>
+                <div class="col-md-4 mb-3" data-aos="zoom-out">
+                    <div class="rounded overflow-hidden shadow-sm">
+                        <img src="assets/img/app/master_bg.jpg" alt="Upacara Bendera" class="img-fluid w-100">
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-6 mb-3" data-aos="zoom-out">
+                    <div class="rounded overflow-hidden shadow-sm">
+                        <img src="assets/img/app/master_bg.jpg" alt="Upacara Bendera" class="img-fluid w-100">
+                    </div>
+                </div>
+                <div class="col-md-6 mb-3" data-aos="zoom-out">
+                    <div class="rounded overflow-hidden shadow-sm">
+                        <img src="assets/img/app/master_bg.jpg" alt="Upacara Bendera" class="img-fluid w-100">
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-4 mb-3" data-aos="zoom-out">
+                    <div class="rounded overflow-hidden shadow-sm">
+                        <img src="assets/img/app/master_bg.jpg" alt="Upacara Bendera" class="img-fluid w-100">
+                    </div>
+                </div>
+                <div class="col-md-4 mb-3" data-aos="zoom-out">
+                    <div class="rounded overflow-hidden shadow-sm">
+                        <img src="assets/img/app/master_bg.jpg" alt="Upacara Bendera" class="img-fluid w-100">
+                    </div>
+                </div>
+                <div class="col-md-4 mb-3" data-aos="zoom-out">
+                    <div class="rounded overflow-hidden shadow-sm">
+                        <img src="assets/img/app/master_bg.jpg" alt="Upacara Bendera" class="img-fluid w-100">
+                    </div>
+                </div>
             </div>
         </div>
     </section>
