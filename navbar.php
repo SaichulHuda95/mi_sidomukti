@@ -18,28 +18,28 @@ $current_page = basename($_SERVER['PHP_SELF'], ".php");
                     <li class="dropdown">
                         <a href="profil" class="<?= ($current_page == 'profil' || $current_page == 'visi_misi' || $current_page == 'struktur_organisasi' || $current_page == 'prasarana') ? 'active' : '' ?>"><span>Profil Sekolah</span>
                             <i class="bi bi-chevron-down toggle-dropdown"></i></a>
-                        <ul>
-                            <li><a href="profil">Tentang Sekolah</a></li>
-                            <li><a href="visi_misi">Visi Misi</a></li>
-                            <li><a href="struktur_organisasi">Struktur Organisasi</a></li>
-                            <li><a href="prasarana">Sarana & Prasarana</a></li>
+                        <ul class="<?= ($current_page == 'profil' || $current_page == 'visi_misi' || $current_page == 'struktur_organisasi' || $current_page == 'prasarana') ? 'dropdown-active' : '' ?>">
+                            <li><a href="profil" class="<?= ($current_page == 'profil') ? 'active' : '' ?>">Tentang Sekolah</a></li>
+                            <li><a href="visi_misi" class="<?= ($current_page == 'visi_misi') ? 'active' : '' ?>">Visi Misi</a></li>
+                            <li><a href="struktur_organisasi" class="<?= ($current_page == 'struktur_organisasi') ? 'active' : '' ?>">Struktur Organisasi</a></li>
+                            <li><a href="prasarana" class="<?= ($current_page == 'prasarana') ? 'active' : '' ?>">Sarana & Prasarana</a></li>
                         </ul>
                     </li>
                     <li class="dropdown">
                         <a href="kegiatan" class="<?= ($current_page == 'kegiatan' || $current_page == 'prestasi' || $current_page == 'galeri') ? 'active' : '' ?>"><span>Kegiatan</span>
                             <i class="bi bi-chevron-down toggle-dropdown"></i></a>
-                        <ul>
-                            <li><a href="kegiatan">Ekstrakurikuler</a></li>
-                            <li><a href="prestasi">Prestasi</a></li>
-                            <li><a href="galeri">Galeri Foto</a></li>
+                        <ul class="<?= ($current_page == 'kegiatan' || $current_page == 'prestasi' || $current_page == 'galeri') ? 'dropdown-active' : '' ?>">
+                            <li><a href="kegiatan" class="<?= ($current_page == 'kegiatan') ? 'active' : '' ?>">Ekstrakurikuler</a></li>
+                            <li><a href="prestasi" class="<?= ($current_page == 'prestasi') ? 'active' : '' ?>">Prestasi</a></li>
+                            <li><a href="galeri" class="<?= ($current_page == 'galeri') ? 'active' : '' ?>">Galeri Foto</a></li>
                         </ul>
                     </li>
                     <li class="dropdown">
                         <a href="list_guru" class="<?= ($current_page == 'list_guru' || $current_page == 'staff') ? 'active' : '' ?>"><span>Tenaga Pendidik</span>
                             <i class="bi bi-chevron-down toggle-dropdown"></i></a>
-                        <ul>
-                            <li><a href="list_guru">Data Guru</a></li>
-                            <li><a href="staff">Staff & Karyawan</a></li>
+                        <ul class="<?= ($current_page == 'list_guru' || $current_page == 'staff') ? 'dropdown-active' : '' ?>">
+                            <li><a href="list_guru" class="<?= ($current_page == 'list_guru') ? 'active' : '' ?>">Data Guru</a></li>
+                            <li><a href="staff" class="<?= ($current_page == 'staff') ? 'active' : '' ?>">Staff & Karyawan</a></li>
                         </ul>
                     </li>
                     <!-- <li class="dropdown">
