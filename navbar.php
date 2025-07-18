@@ -6,7 +6,7 @@ $current_page = basename($_SERVER['PHP_SELF'], ".php");
     <header id="header" class="header d-flex align-items-center fixed-top">
         <div
             class="container-fluid container-xl position-relative d-flex align-items-center justify-content-between">
-            <a href="/index" class="logo d-flex align-items-center">
+            <a href="index" class="logo d-flex align-items-center">
                 <!-- Uncomment the line below if you also wish to use an image logo -->
                 <img src="assets/img/app/logo_navbar.png" alt="" />
                 <h1 class="sitename">MI Nurul Ulum Sidomukti</h1>
