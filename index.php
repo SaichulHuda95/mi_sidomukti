@@ -64,7 +64,7 @@
                                 </div>
                                 <div class="stat-item">
                                     <div class="stat-icon">
-                                        <i class="bi bi-mosque"></i>
+                                        <i class="bi bi-book-half"></i>
                                     </div>
                                     <div class="stat-content">
                                         <h4>100%</h4>
