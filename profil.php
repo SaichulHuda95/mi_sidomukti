@@ -75,6 +75,22 @@
                 <div class="col-lg-6">
                     <div class="about-image" data-aos="zoom-in" data-aos-delay="300">
                         <img src="assets/img/app/profil.jpg" alt="Campus" class="img-fluid rounded">
+                        <div class="mission-vision" data-aos="fade-up" data-aos-delay="400">
+                            <div class="mission">
+                                <h3>Visi</h3>
+                                <p class="fs-5 fst-italic">
+                                    “Menjadi madrasah yang unggul dalam pembentukan generasi Qur’ani yang berilmu, berakhlak mulia, dan berwawasan kebangsaan.”
+                                </p>
+                            </div>
+
+                            <div class="vision">
+                                <h3>Misi</h3>
+                                <ul class="mb-0 ps-3">
+                                    <li class="mb-2">Menyelenggarakan pendidikan yang berlandaskan ajaran Islam dan nilai-nilai Al-Qur’an.</li>
+                                    <li class="mb-2">Mengembangkan potensi peserta didik melalui metode pembelajaran aktif, kreatif, dan menyenangkan.</li>
+                                </ul>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
