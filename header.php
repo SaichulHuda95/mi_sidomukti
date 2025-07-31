@@ -9,8 +9,8 @@
     <meta name="keywords" content="" />
 
     <!-- Favicons -->
-    <link href="assets/img/app/logo_navbar.png" rel="icon" />
-    <link href="assets/img/app/logo_navbar.png" rel="apple-touch-icon" />
+    <link href="assets/img/app/logo_mi.png" rel="icon" />
+    <link href="assets/img/app/logo_mi.png" rel="apple-touch-icon" />
 
     <!-- Fonts -->
     <link href="https://fonts.googleapis.com" rel="preconnect" />

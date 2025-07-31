@@ -31,8 +31,36 @@
                             </div>
                             <h3>Visi</h3>
                             <p>
-                                “Menjadi madrasah yang unggul dalam pembentukan generasi Qur’ani yang berilmu, berakhlak mulia, dan berwawasan kebangsaan.”
+                                <b>“Terwujudnya Generasi yang Cerdas, Kreatif, Mandiri dan Berakhlaqul Karimah”</b>
                             </p>
+                            <p>
+                                Dari pernyataan visi tersebut terdapat empat kata kunci yang
+                                terkandung didalamnya, yaitu: Islami, prestasi, Iptek dan ramah lingkungan, untuk mengetahui keberhasilan visi dapat dilihat dari indikator visi sbb :
+                            </p>
+                            <b>1. Cerdas</b>
+                            <ul>
+                                <li>Mampu berpikir kritis dan memecahkan masalah secara efektif.</li>
+                                <li>Memiliki prestasi akademik dan non-akademik yang unggul.</li>
+                                <li>Memanfaatkan teknologi secara bijak untuk pengembangan ilmu.</li>
+                            </ul>
+                            <b>2. Kreatif</b>
+                            <ul>
+                                <li>Mampu menciptakan solusi inovatif dalam berbagai aspek kehidupan.</li>
+                                <li>Berpartisipasi aktif dalam kegiatan seni, budaya, dan keterampilan.</li>
+                                <li>Berpikir terbuka dan memiliki daya imajinasi yang tinggi.</li>
+                            </ul>
+                            <b>3. Mandiri</b>
+                            <ul>
+                                <li>Memiliki kemandirian dalam belajar dan mengambil keputusan.</li>
+                                <li>Mampu bertanggung jawab atas tindakan dan konsekuensinya.</li>
+                                <li>Mengembangkan keterampilan hidup untuk menghadapi tantangan masa depan.</li>
+                            </ul>
+                            <b>4. Berakhlaqul Karimah</b>
+                            <ul>
+                                <li>Menunjukkan sikap jujur, disiplin, dan bertanggung jawab dalam kehidupan sehari-hari.</li>
+                                <li>Menghormati guru, orang tua, dan sesama dalam interaksi sosial.</li>
+                                <li>Mempraktikkan nilai-nilai keislaman dalam setiap aspek kehidupan</li>
+                            </ul>
                         </div>
                     </div>
 
@@ -43,12 +71,13 @@
                                 <i class="bi bi-bookmark"></i>
                             </div>
                             <h3>Misi</h3>
+                            <p>Untuk mewujudkan visi, madrasah ini memiliki misi, sebagai berikut:</p>
                             <ul class="mb-0 ps-3">
-                                <li class="mb-2">Menyelenggarakan pendidikan yang berlandaskan ajaran Islam dan nilai-nilai Al-Qur’an.</li>
-                                <li class="mb-2">Mengembangkan potensi peserta didik melalui metode pembelajaran aktif, kreatif, dan menyenangkan.</li>
-                                <li class="mb-2">Menanamkan akhlak mulia dan karakter islami dalam kehidupan sehari-hari siswa.</li>
-                                <li class="mb-2">Menumbuhkan semangat nasionalisme, cinta tanah air, dan kepedulian terhadap sesama.</li>
-                                <li class="mb-2">Membentuk peserta didik sebagai pembelajar sepanjang hayat yang siap menghadapi tantangan masa depan.</li>
+                                <li class="mb-2">Menanamkan nilai-nilai keislaman dan akhlak mulia dalam setiap aspek pendidikan </li>
+                                <li class="mb-2">Menyelenggarakan pembelajaran yang inovatif, interaktif, dan berbasis kreativitas</li>
+                                <li class="mb-2">Membentuk generasi yang mandiri, bertanggung jawab, dan siap menghadapi tantangan masa depan </li>
+                                <li class="mb-2">Menciptakan lingkungan pendidikan yang kondusif, inspiratif, dan ramah anak</li>
+                                <li class="mb-2">Menanamkan kecintaan terhadap budaya dan kearifan lokal sebagai bagian dari identitas bangsa</li>
                             </ul>
                         </div>
                     </div>

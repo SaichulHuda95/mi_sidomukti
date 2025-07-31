@@ -4,15 +4,6 @@
     <!-- Hero Section -->
     <section id="hero" class="hero section dark-background">
         <div class="hero-container">
-            <!-- <video
-                autoplay=""
-                muted=""
-                loop=""
-                playsinline=""
-                class="video-background">
-                <source src="assets/img/education/video-2.mp4" type="video/mp4" />
-            </video> -->
-            <!-- <img src="assets/img/app/master_bg.jpg" alt="" width="100%"> -->
             <div class="overlay"></div>
             <div class="container">
                 <div class="row align-items-center">
@@ -89,7 +80,7 @@
             </div>
             <div class="row align-items-center mission-vision-row g-4">
                 <div class="col-lg-6" data-aos="fade-right">
-                    <img src="assets/img/app/master_bg.jpg" alt="Tentang Kami" class="img-fluid rounded">
+                    <img src="assets/img/home/tentang_kami.jpg" alt="Tentang Kami" class="img-fluid rounded">
                 </div>
                 <div class="col-lg-6" data-aos="fade-left">
                     <div class="value-card">
@@ -97,14 +88,8 @@
                             <i class="bi bi-info-circle"></i>
                         </div>
                         <p>
-                            MI Nurul Ulum Sidomukti adalah lembaga pendidikan Islam tingkat dasar yang berdedikasi mencetak generasi yang cerdas, berakhlak mulia, serta memiliki semangat belajar tinggi. Dengan dukungan tenaga pendidik profesional dan lingkungan belajar yang Islami, kami siap mengantar siswa menuju masa depan yang gemilang.
+                            MI Nurul Ulum Sidomukti memiliki Pendidik dan Tenaga Pendidik sebanyak 13 orang yang cukup berkompeten dalam melaksanaan pembelajaran dan cakap dalam penggunaan teknologi informasi (IT). Untuk jumlah murid Tahun Ajaran 2025/2026.
                         </p>
-                        <ul>
-                            <li><i class="bi bi-check-circle-fill text-success"></i> Kurikulum Terpadu Umum & Diniyah</li>
-                            <li><i class="bi bi-check-circle-fill text-success"></i> Fasilitas Belajar Lengkap & Nyaman</li>
-                            <li><i class="bi bi-check-circle-fill text-success"></i> Ekstrakurikuler untuk Minat & Bakat</li>
-                            <li><i class="bi bi-check-circle-fill text-success"></i> Pembinaan Karakter Islami Sehari-hari</li>
-                        </ul>
                         <a href="profil" class="btn btn-primary mt-3">Selengkapnya</a>
                     </div>
                 </div>
@@ -117,7 +102,7 @@
         <div class="container" data-aos="fade-up" data-aos-delay="100">
             <div class="section-title text-center" data-aos="fade-up">
                 <h2>Program Unggulan</h2>
-                <p>Kami memiliki program-program terbaik untuk menunjang potensi siswa.</p>
+                <p>Untuk memberi pelayanan pendidikan kepada pelajar yang kaya pengalaman belajar, MI Nurul Ulum Sidomukti melaksanakan sejumlah program unggulan</p>
             </div>
 
             <div class="row mission-vision-row g-4">
@@ -126,9 +111,9 @@
                         <div class="card-icon">
                             <i class="bi bi-book-half"></i>
                         </div>
-                        <h3>Program Tahfidz</h3>
+                        <h3>Program Tahfidz Juz 30</h3>
                         <p>
-                            Membimbing siswa menghafal Al-Qur’an dengan metode yang menyenangkan dan bertahap.
+                            Siswa dibimbing untuk menghafal Al-Qur’an Juz 30 dengan metode yang bertahap, menyenangkan, dan sesuai dengan kemampuan masing-masing.
                         </p>
                     </div>
                 </div>
@@ -137,20 +122,42 @@
                         <div class="card-icon">
                             <i class="bi bi-person-video2"></i>
                         </div>
-                        <h3>Kelas Digital</h3>
+                        <h3>Program Pembiasaan Ibadah</h3>
                         <p>
-                            Memanfaatkan teknologi dalam proses pembelajaran agar siswa lebih interaktif dan siap digitalisasi.
+                            Melatih siswa untuk terbiasa dengan ibadah harian seperti sholat berjamaah, doa bersama, membaca Al-Qur’an, dan sikap islami dalam keseharian.
                         </p>
                     </div>
                 </div>
                 <div class="col-md-4" data-aos="fade-up" data-aos-delay="300">
                     <div class="value-card h-100">
                         <div class="card-icon">
-                            <i class="bi bi-palette-fill"></i>
+                            <i class="bi bi-stars"></i>
                         </div>
-                        <h3>Ekstrakurikuler Beragam</h3>
+                        <h3>Pengembangan Bakat & Prestasi</h3>
                         <p>
-                            Pramuka, Hadrah, Futsal, Kaligrafi, dan masih banyak lagi untuk mengembangkan minat & bakat siswa.
+                            Menyediakan berbagai kegiatan ekstrakurikuler seperti Pramuka, Hadrah, Kaligrafi, Futsal, dan lomba akademik untuk menggali potensi siswa.
+                        </p>
+                    </div>
+                </div>
+                <div class="col-md-4" data-aos="fade-up" data-aos-delay="400">
+                    <div class="value-card h-100">
+                        <div class="card-icon">
+                            <i class="bi bi-people-fill"></i>
+                        </div>
+                        <h3>Kolaborasi Peningkatan Prestasi</h3>
+                        <p>
+                            Bekerja sama dengan lembaga eksternal, seperti Kemenag, Dinas Pendidikan, dan komunitas pendidikan untuk peningkatan prestasi siswa secara menyeluruh.
+                        </p>
+                    </div>
+                </div>
+                <div class="col-md-4" data-aos="fade-up" data-aos-delay="500">
+                    <div class="value-card h-100">
+                        <div class="card-icon">
+                            <i class="bi bi-bus-front-fill"></i>
+                        </div>
+                        <h3>Program Belajar di Luar Kelas</h3>
+                        <p>
+                            Kegiatan edukatif di luar kelas seperti field trip, outing class, dan kunjungan edukasi untuk memperluas wawasan dan pengalaman siswa secara nyata.
                         </p>
                     </div>
                 </div>
@@ -172,60 +179,59 @@
                         <!-- Slide 1 -->
                         <div class="swiper-slide">
                             <div class="gallery-item rounded overflow-hidden shadow-sm">
-                                <img src="assets/img/app/master_bg.jpg" alt="Upacara Bendera" class="img-fluid w-100">
+                                <img src="assets/img/home/Picture1.png" alt="Upacara Bendera" class="img-fluid">
                             </div>
                         </div>
 
                         <!-- Slide 2 -->
                         <div class="swiper-slide">
                             <div class="gallery-item rounded overflow-hidden shadow-sm">
-                                <img src="assets/img/app/master_bg.jpg" alt="Belajar di Kelas" class="img-fluid w-100">
+                                <img src="assets/img/home/Picture2.png" alt="Belajar di Kelas" class="img-fluid w-100">
                             </div>
                         </div>
 
                         <!-- Slide 3 -->
                         <div class="swiper-slide">
                             <div class="gallery-item rounded overflow-hidden shadow-sm">
-                                <img src="assets/img/app/master_bg.jpg" alt="Lomba Agustusan" class="img-fluid w-100">
+                                <img src="assets/img/home/Picture3.png" alt="Lomba Agustusan" class="img-fluid w-100">
                             </div>
                         </div>
 
                         <!-- Slide 4 -->
                         <div class="swiper-slide">
                             <div class="gallery-item rounded overflow-hidden shadow-sm">
-                                <img src="assets/img/app/master_bg.jpg" alt="Shalat Berjamaah" class="img-fluid w-100">
+                                <img src="assets/img/home/Picture4.png" alt="Shalat Berjamaah" class="img-fluid w-100">
                             </div>
                         </div>
 
                         <!-- Slide 4 -->
                         <div class="swiper-slide">
                             <div class="gallery-item rounded overflow-hidden shadow-sm">
-                                <img src="assets/img/app/master_bg.jpg" alt="Shalat Berjamaah" class="img-fluid w-100">
+                                <img src="assets/img/home/Picture5.png" alt="Shalat Berjamaah" class="img-fluid w-100">
                             </div>
                         </div>
 
                         <!-- Slide 4 -->
                         <div class="swiper-slide">
                             <div class="gallery-item rounded overflow-hidden shadow-sm">
-                                <img src="assets/img/app/master_bg.jpg" alt="Shalat Berjamaah" class="img-fluid w-100">
+                                <img src="assets/img/home/Picture6.png" alt="Shalat Berjamaah" class="img-fluid w-100">
                             </div>
                         </div>
 
                         <!-- Slide 4 -->
                         <div class="swiper-slide">
                             <div class="gallery-item rounded overflow-hidden shadow-sm">
-                                <img src="assets/img/app/master_bg.jpg" alt="Shalat Berjamaah" class="img-fluid w-100">
+                                <img src="assets/img/home/Picture7.png" alt="Shalat Berjamaah" class="img-fluid w-100">
                             </div>
                         </div>
 
                         <!-- Slide 4 -->
                         <div class="swiper-slide">
                             <div class="gallery-item rounded overflow-hidden shadow-sm">
-                                <img src="assets/img/app/master_bg.jpg" alt="Shalat Berjamaah" class="img-fluid w-100">
+                                <img src="assets/img/home/Picture8.png" alt="Shalat Berjamaah" class="img-fluid w-100">
                             </div>
                         </div>
 
-                        <!-- Tambahkan slide sesuai kebutuhan -->
                     </div>
                     <div class="swiper-pagination mt-4"></div>
                 </div>
@@ -244,124 +250,20 @@
         </div>
         <div class="container">
             <div class="testimonial-masonry">
-                <div class="testimonial-item" data-aos="fade-up">
-                    <div class="testimonial-content">
-                        <div class="quote-pattern">
-                            <i class="bi bi-quote"></i>
-                        </div>
-                        <p>
-                            MI Nurul Ulum bukan hanya memberikan pendidikan akademik, tetapi juga menanamkan nilai-nilai Islam sejak dini. Anak saya tumbuh menjadi pribadi yang disiplin dan berakhlak mulia.
-                        </p>
-                        <div class="client-info">
-                            <div class="client-image">
-                                <img src="assets/img/person/person-f-7.webp" alt="Wali Murid" />
-                            </div>
-                            <div class="client-details">
-                                <h3>Bu Rahmawati</h3>
-                                <span class="position">Wali Murid</span>
-                            </div>
-                        </div>
-                    </div>
+                <div class="testimonial-item testimoni1" data-aos="fade-up">
+                    <img src="assets/img/home/testimoni_1.jpeg" alt="testimoni" class="img-fluid rounded">
                 </div>
 
                 <div class="testimonial-item highlight" data-aos="fade-up" data-aos-delay="100">
-                    <div class="testimonial-content">
-                        <div class="quote-pattern">
-                            <i class="bi bi-quote"></i>
-                        </div>
-                        <p>
-                            Saya bangga menjadi alumni MI Nurul Ulum. Ilmu dan karakter yang saya dapatkan menjadi bekal penting dalam perjalanan pendidikan saya selanjutnya.
-                        </p>
-                        <div class="client-info">
-                            <div class="client-image">
-                                <img src="assets/img/person/person-m-7.webp" alt="Alumni" />
-                            </div>
-                            <div class="client-details">
-                                <h3>Ahmad Fauzan</h3>
-                                <span class="position">Alumni</span>
-                            </div>
-                        </div>
-                    </div>
+                    <img src="assets/img/home/testimoni_2.jpeg" alt="testimoni" class="img-fluid rounded">
                 </div>
 
                 <div class="testimonial-item" data-aos="fade-up" data-aos-delay="200">
-                    <div class="testimonial-content">
-                        <div class="quote-pattern">
-                            <i class="bi bi-quote"></i>
-                        </div>
-                        <p>
-                            Lingkungan belajar di MI Nurul Ulum sangat kondusif. Siswa tidak hanya dididik secara akademik, tapi juga dibimbing dalam akhlak dan ibadah.
-                        </p>
-                        <div class="client-info">
-                            <div class="client-image">
-                                <img src="assets/img/person/person-f-8.webp" alt="Guru" />
-                            </div>
-                            <div class="client-details">
-                                <h3>Ustadzah Lilis</h3>
-                                <span class="position">Guru Kelas</span>
-                            </div>
-                        </div>
-                    </div>
+                    <img src="assets/img/home/testimoni_3.jpeg" alt="testimoni" class="rounded" height="400px" width="75%">
                 </div>
 
                 <div class="testimonial-item" data-aos="fade-up" data-aos-delay="300">
-                    <div class="testimonial-content">
-                        <div class="quote-pattern">
-                            <i class="bi bi-quote"></i>
-                        </div>
-                        <p>
-                            Saya senang sekolah di sini karena banyak teman, gurunya baik, dan kami juga belajar mengaji dan sholat bersama.
-                        </p>
-                        <div class="client-info">
-                            <div class="client-image">
-                                <img src="assets/img/person/person-m-8.webp" alt="Siswa" />
-                            </div>
-                            <div class="client-details">
-                                <h3>Rifqi Maulana</h3>
-                                <span class="position">Siswa Kelas 5</span>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="testimonial-item highlight" data-aos="fade-up" data-aos-delay="400">
-                    <div class="testimonial-content">
-                        <div class="quote-pattern">
-                            <i class="bi bi-quote"></i>
-                        </div>
-                        <p>
-                            Sekolah ini sangat memperhatikan perkembangan karakter anak. Kami para guru juga terus diberikan pelatihan untuk meningkatkan kualitas pengajaran.
-                        </p>
-                        <div class="client-info">
-                            <div class="client-image">
-                                <img src="assets/img/person/person-f-9.webp" alt="Guru" />
-                            </div>
-                            <div class="client-details">
-                                <h3>Ustadzah Nita</h3>
-                                <span class="position">Guru Agama</span>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="testimonial-item" data-aos="fade-up" data-aos-delay="500">
-                    <div class="testimonial-content">
-                        <div class="quote-pattern">
-                            <i class="bi bi-quote"></i>
-                        </div>
-                        <p>
-                            Di MI Nurul Ulum saya belajar banyak hal baru, dari membaca Al-Qur’an sampai sains. Sekolahnya asyik dan banyak kegiatan seru.
-                        </p>
-                        <div class="client-info">
-                            <div class="client-image">
-                                <img src="assets/img/person/person-m-13.webp" alt="Siswa" />
-                            </div>
-                            <div class="client-details">
-                                <h3>Muhammad Zidan</h3>
-                                <span class="position">Siswa Kelas 6</span>
-                            </div>
-                        </div>
-                    </div>
+                    <img src="assets/img/home/testimoni_4.jpeg" alt="testimoni" class="img-fluid rounded">
                 </div>
             </div>
         </div>
