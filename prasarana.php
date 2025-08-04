@@ -29,7 +29,7 @@
                 <div class="col-md-6 col-lg-4">
                     <div class="bg-light rounded shadow-sm h-100 overflow-hidden">
                         <div class="facility-img">
-                            <img src="assets/img/app/master_bg.jpg" alt="" class="img-fluid mb-3">
+                            <img src="assets/img/prasarana/kelas.jpeg" alt="" class="img-fluid mb-3">
                         </div>
                         <div class="p-3">
                             <h5>Kelas Nyaman & Representatif</h5>
@@ -41,10 +41,10 @@
                 <div class="col-md-6 col-lg-4">
                     <div class="bg-light rounded shadow-sm h-100 overflow-hidden">
                         <div class="facility-img">
-                            <img src="assets/img/app/master_bg.jpg" alt="" class="img-fluid mb-3">
+                            <img src="assets/img/prasarana/perpustakaan.jpeg" alt="" class="img-fluid mb-3">
                         </div>
                         <div class="p-3">
-                            <h5>Perpustakaan Mini</h5>
+                            <h5>Perpustakaan</h5>
                             <p>Menyediakan koleksi buku pelajaran, cerita Islami, dan bacaan pengayaan untuk mendukung literasi siswa.</p>
                         </div>
                     </div>
@@ -53,10 +53,10 @@
                 <div class="col-md-6 col-lg-4">
                     <div class="bg-light rounded shadow-sm h-100 overflow-hidden">
                         <div class="facility-img">
-                            <img src="assets/img/app/master_bg.jpg" alt="" class="img-fluid mb-3">
+                            <img src="assets/img/prasarana/masjid.jpeg" alt="" class="img-fluid mb-3">
                         </div>
                         <div class="p-3">
-                            <h5>Masjid & Tempat Wudhu</h5>
+                            <h5>Masjid</h5>
                             <p>Sarana ibadah yang bersih dan nyaman untuk pembiasaan shalat berjamaah serta pembelajaran agama secara praktik.</p>
                         </div>
                     </div>
@@ -65,7 +65,7 @@
                 <div class="col-md-6 col-lg-4">
                     <div class="bg-light rounded shadow-sm h-100 overflow-hidden">
                         <div class="facility-img">
-                            <img src="assets/img/app/master_bg.jpg" alt="" class="img-fluid mb-3">
+                            <img src="assets/img/prasarana/lapangan.jpeg" alt="" class="img-fluid mb-3">
                         </div>
                         <div class="p-3">
                             <h5>Halaman & Lapangan Bermain</h5>
@@ -77,7 +77,7 @@
                 <div class="col-md-6 col-lg-4">
                     <div class="bg-light rounded shadow-sm h-100 overflow-hidden">
                         <div class="facility-img">
-                            <img src="assets/img/app/master_bg.jpg" alt="" class="img-fluid mb-3">
+                            <img src="assets/img/prasarana/uks.jpeg" alt="" class="img-fluid mb-3">
                         </div>
                         <div class="p-3">
                             <h5>UKS (Usaha Kesehatan Sekolah)</h5>
@@ -89,11 +89,71 @@
                 <div class="col-md-6 col-lg-4">
                     <div class="bg-light rounded shadow-sm h-100 overflow-hidden">
                         <div class="facility-img">
-                            <img src="assets/img/app/master_bg.jpg" alt="" class="img-fluid mb-3">
+                            <img src="assets/img/prasarana/toilet_guru.jpeg" alt="" class="img-fluid mb-3">
                         </div>
                         <div class="p-3">
-                            <h5>Sanitasi & Toilet Anak</h5>
+                            <h5>Toilet Guru</h5>
                             <p>Toilet terpisah antara putra dan putri, dengan kebersihan terjaga dan ramah anak.</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-6 col-lg-4">
+                    <div class="bg-light rounded shadow-sm h-100 overflow-hidden">
+                        <div class="facility-img">
+                            <img src="assets/img/prasarana/kantin.jpeg" alt="" class="img-fluid mb-3">
+                        </div>
+                        <div class="p-3">
+                            <h5>Kantin</h5>
+                            <p>Kantin menyediakan makanan dan minuman sehat dengan harga terjangkau serta lingkungan yang bersih dan nyaman.</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-6 col-lg-4">
+                    <div class="bg-light rounded shadow-sm h-100 overflow-hidden">
+                        <div class="facility-img">
+                            <img src="assets/img/prasarana/lab_komputer.jpeg" alt="" class="img-fluid mb-3">
+                        </div>
+                        <div class="p-3">
+                            <h5>Lab. Komputer</h5>
+                            <p>Dilengkapi dengan perangkat komputer yang memadai untuk menunjang pembelajaran teknologi dan keterampilan digital.</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-6 col-lg-4">
+                    <div class="bg-light rounded shadow-sm h-100 overflow-hidden">
+                        <div class="facility-img">
+                            <img src="assets/img/prasarana/ruang_bk.jpeg" alt="" class="img-fluid mb-3">
+                        </div>
+                        <div class="p-3">
+                            <h5>Ruang BK</h5>
+                            <p>Ruang Bimbingan Konseling yang nyaman untuk mendukung layanan konseling siswa secara privat dan profesional.</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-6 col-lg-4">
+                    <div class="bg-light rounded shadow-sm h-100 overflow-hidden">
+                        <div class="facility-img">
+                            <img src="assets/img/prasarana/ruang_guru.jpeg" alt="" class="img-fluid mb-3">
+                        </div>
+                        <div class="p-3">
+                            <h5>Ruang Guru</h5>
+                            <p>Tempat istirahat dan koordinasi guru yang nyaman dan dilengkapi fasilitas penunjang kegiatan administrasi dan perencanaan pembelajaran.</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-6 col-lg-4">
+                    <div class="bg-light rounded shadow-sm h-100 overflow-hidden">
+                        <div class="facility-img">
+                            <img src="assets/img/prasarana/ruang_tu.jpeg" alt="" class="img-fluid mb-3">
+                        </div>
+                        <div class="p-3">
+                            <h5>Ruang TU</h5>
+                            <p>Ruang Tata Usaha yang berfungsi sebagai pusat layanan administrasi sekolah dengan sistem kerja tertib dan pelayanan ramah.</p>
                         </div>
                     </div>
                 </div>

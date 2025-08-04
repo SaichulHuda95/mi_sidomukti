@@ -20,7 +20,7 @@
     <!-- Contact Section -->
     <section id="contact" class="contact section">
 
-        <div class="container" data-aos="fade-up" data-aos-delay="100">
+        <div class="container-fluid" data-aos="fade-up" data-aos-delay="100">
 
             <!-- Contact Info Boxes -->
             <div class="row gy-4 mb-5">
@@ -43,7 +43,7 @@
                         </div>
                         <div class="info-content">
                             <h4>Email</h4>
-                            <p>minurulumum@gmail.com</p>
+                            <p>mim.nurul.ulum.sidomukti@gmail.com</p>
                         </div>
                     </div>
                 </div>
@@ -55,7 +55,8 @@
                         </div>
                         <div class="info-content">
                             <h4>Jam Operasional</h4>
-                            <p>Senin - Kamis: 09.00 - 18.00</p>
+                            <p>Selasa - Kamis: 06.30 - 13.00</p>
+                            <p>Sabtu - Minggu: 06.30 - 13.00</p>
                         </div>
                     </div>
                 </div>
@@ -67,7 +68,7 @@
                         </div>
                         <div class="info-content">
                             <h4>Nomor Telpon</h4>
-                            <p>08234757483737</p>
+                            <p>081232643577</p>
                         </div>
                     </div>
                 </div>

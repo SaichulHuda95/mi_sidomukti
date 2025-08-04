@@ -30,11 +30,11 @@
                 <div class="col-md-6 col-lg-4">
                     <div class="bg-white rounded shadow-sm h-100 text-center overflow-hidden h-100">
                         <div class="facility-img">
-                            <img src="assets/img/app/master_bg.jpg" alt="Juara 1 MTQ" class="img-fluid mb-3">
+                            <img src="assets/img/prestasi/catur.png" alt="Lomba Catur" class="img-fluid mb-3">
                         </div>
                         <div class="p-3">
-                            <h5>Juara 1 MTQ Tingkat Kecamatan</h5>
-                            <p>Salah satu siswa kami berhasil meraih Juara 1 Musabaqah Tilawatil Qur’an tingkat Kecamatan tahun 2024.</p>
+                            <h5>Juara 1 Catur Tingkat Kecamatan</h5>
+                            <p>Prestasi gemilang diraih oleh siswa kami dengan meraih Juara 1 dalam lomba catur tingkat Kecamatan, menunjukkan ketajaman strategi dan konsentrasi tinggi.</p>
                         </div>
                     </div>
                 </div>
@@ -43,11 +43,11 @@
                 <div class="col-md-6 col-lg-4">
                     <div class="bg-white rounded shadow-sm h-100 text-center overflow-hidden h-100">
                         <div class="facility-img">
-                            <img src="assets/img/app/master_bg.jpg" alt="Lomba Hadrah" class="img-fluid mb-3">
+                            <img src="assets/img/prestasi/kaligrafi.png" alt="Lomba Kaligrafi" class="img-fluid mb-3">
                         </div>
                         <div class="p-3">
-                            <h5>Juara 2 Hadrah & Shalawat</h5>
-                            <p>Tim hadrah MI Nurul Ulum Sidomukti meraih juara 2 dalam lomba shalawat antar madrasah se-Kabupaten.</p>
+                            <h5>Juara Kaligrafi Tingkat Kecamatan</h5>
+                            <p>Siswa kami meraih juara dalam lomba kaligrafi tingkat Kecamatan berkat kreativitas dan keindahan seni tulisannya yang memukau.</p>
                         </div>
                     </div>
                 </div>
@@ -56,11 +56,11 @@
                 <div class="col-md-6 col-lg-4">
                     <div class="bg-white rounded shadow-sm h-100 text-center overflow-hidden h-100">
                         <div class="facility-img">
-                            <img src="assets/img/app/master_bg.jpg" alt="Futsal Champion" class="img-fluid mb-3">
+                            <img src="assets/img/prestasi/lompat_jauh.png" alt="Lomba Lompat Jauh" class="img-fluid mb-3">
                         </div>
                         <div class="p-3">
-                            <h5>Juara 3 Turnamen Futsal</h5>
-                            <p>Tim futsal putra berhasil meraih peringkat ketiga pada turnamen futsal tingkat MI se-Kecamatan.</p>
+                            <h5>Juara Lompat Jauh Tingkat Kecamatan</h5>
+                            <p>Dengan semangat dan latihan yang intensif, siswa kami berhasil menjadi yang terbaik dalam cabang lompat jauh tingkat Kecamatan.</p>
                         </div>
                     </div>
                 </div>
@@ -69,11 +69,11 @@
                 <div class="col-md-6 col-lg-4">
                     <div class="bg-white rounded shadow-sm h-100 text-center overflow-hidden h-100">
                         <div class="facility-img">
-                            <img src="assets/img/app/master_bg.jpg" alt="Lomba Kaligrafi" class="img-fluid mb-3">
+                            <img src="assets/img/prestasi/pidato.png" alt="Lomba Pidato" class="img-fluid mb-3">
                         </div>
                         <div class="p-3">
-                            <h5>Juara Kaligrafi Islami</h5>
-                            <p>Siswa kelas 5 berhasil menjadi juara dalam lomba kaligrafi Islami tingkat kabupaten tahun 2023.</p>
+                            <h5>Juara Pidato Tingkat Kecamatan</h5>
+                            <p>Prestasi membanggakan diraih dalam lomba pidato tingkat Kecamatan, menonjolkan kemampuan berkomunikasi dan keberanian berbicara di depan umum.</p>
                         </div>
                     </div>
                 </div>
@@ -82,24 +82,11 @@
                 <div class="col-md-6 col-lg-4">
                     <div class="bg-white rounded shadow-sm h-100 text-center overflow-hidden h-100">
                         <div class="facility-img">
-                            <img src="assets/img/app/master_bg.jpg" alt="Story Telling" class="img-fluid mb-3">
+                            <img src="assets/img/prestasi/tolak_peluru.png" alt="Tolak Peluru" class="img-fluid mb-3">
                         </div>
                         <div class="p-3">
-                            <h5>Story Telling Contest</h5>
-                            <p>Salah satu siswa kami tampil memukau dalam lomba story telling Bahasa Inggris tingkat kabupaten.</p>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- Item -->
-                <div class="col-md-6 col-lg-4">
-                    <div class="bg-white rounded shadow-sm h-100 text-center overflow-hidden h-100">
-                        <div class="facility-img">
-                            <img src="assets/img/app/master_bg.jpg" alt="Hafidz Qur'an" class="img-fluid mb-3">
-                        </div>
-                        <div class="p-3">
-                            <h5>Siswa Hafidz 5 Juz</h5>
-                            <p>Beberapa siswa telah menyelesaikan hafalan hingga 5 juz Al-Qur’an dengan bimbingan guru tahfidz.</p>
+                            <h5>Juara Tolak Peluru Tingkat Kecamatan</h5>
+                            <p>Siswa kami sukses meraih juara dalam cabang olahraga tolak peluru, menunjukkan kekuatan fisik dan teknik yang luar biasa.</p>
                         </div>
                     </div>
                 </div>

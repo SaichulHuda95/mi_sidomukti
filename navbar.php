@@ -34,22 +34,7 @@ $current_page = basename($_SERVER['PHP_SELF'], ".php");
                             <li><a href="galeri" class="<?= ($current_page == 'galeri') ? 'active' : '' ?>">Galeri Foto</a></li>
                         </ul>
                     </li>
-                    <li class="dropdown">
-                        <a href="list_guru" class="<?= ($current_page == 'list_guru' || $current_page == 'staff') ? 'active' : '' ?>"><span>Tenaga Pendidik</span>
-                            <i class="bi bi-chevron-down toggle-dropdown"></i></a>
-                        <ul class="<?= ($current_page == 'list_guru' || $current_page == 'staff') ? 'dropdown-active' : '' ?>">
-                            <li><a href="list_guru" class="<?= ($current_page == 'list_guru') ? 'active' : '' ?>">Data Guru</a></li>
-                            <li><a href="staff" class="<?= ($current_page == 'staff') ? 'active' : '' ?>">Staff & Karyawan</a></li>
-                        </ul>
-                    </li>
-                    <!-- <li class="dropdown">
-                        <a href="berita"><span>Berita</span>
-                            <i class="bi bi-chevron-down toggle-dropdown"></i></a>
-                        <ul>
-                            <li><a href="berita">Informasi Terkini</a></li>
-                            <li><a href="pengumuman">Pengumuman</a></li>
-                        </ul>
-                    </li> -->
+                    <li><a href="list_guru" class="<?= ($current_page == 'list_guru') ? 'active' : '' ?>">Data Guru</a></li>
                     <li><a href="contact" class="<?= ($current_page == 'contact') ? 'active' : '' ?>">Kontak Kami</a></li>
                 </ul>
                 <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>

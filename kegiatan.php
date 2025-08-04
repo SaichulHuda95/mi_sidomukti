@@ -30,7 +30,7 @@
                 <div class="col-md-6 col-lg-4">
                     <div class="bg-white rounded shadow-sm h-100 text-center overflow-hidden h-100">
                         <div class="facility-img">
-                            <img src="assets/img/app/master_bg.jpg" alt="" class="img-fluid mb-3">
+                            <img src="assets/img/ekskul/pramuka.png" alt="" class="img-fluid mb-3">
                         </div>
                         <div class="p-3">
                             <h5>Pramuka</h5>
@@ -43,10 +43,10 @@
                 <div class="col-md-6 col-lg-4">
                     <div class="bg-white rounded shadow-sm h-100 text-center overflow-hidden h-100">
                         <div class="facility-img">
-                            <img src="assets/img/app/master_bg.jpg" alt="" class="img-fluid mb-3">
+                            <img src="assets/img/ekskul/banjari.png" alt="" class="img-fluid mb-3">
                         </div>
                         <div class="p-3">
-                            <h5>Hadrah & Shalawat</h5>
+                            <h5>Banjari</h5>
                             <p>Meningkatkan kecintaan pada seni Islami dengan menampilkan shalawat secara ritmis dan kompak.</p>
                         </div>
                     </div>
@@ -56,11 +56,11 @@
                 <div class="col-md-6 col-lg-4">
                     <div class="bg-white rounded shadow-sm h-100 text-center overflow-hidden h-100">
                         <div class="facility-img">
-                            <img src="assets/img/app/master_bg.jpg" alt="" class="img-fluid mb-3">
+                            <img src="assets/img/ekskul/futsal.png" alt="" class="img-fluid mb-3">
                         </div>
                         <div class="p-3">
-                            <h5>Olahraga</h5>
-                            <p>Kegiatan seperti futsal, senam, dan lomba tradisional untuk mendukung fisik dan sportivitas siswa.</p>
+                            <h5>Futsal</h5>
+                            <p>Ekstrakurikuler futsal melatih siswa dalam kerjasama tim, ketangkasan fisik, serta sportivitas melalui latihan rutin dan kompetisi antar sekolah.</p>
                         </div>
                     </div>
                 </div>
@@ -69,7 +69,7 @@
                 <div class="col-md-6 col-lg-4">
                     <div class="bg-white rounded shadow-sm h-100 text-center overflow-hidden h-100">
                         <div class="facility-img">
-                            <img src="assets/img/app/master_bg.jpg" alt="" class="img-fluid mb-3">
+                            <img src="assets/img/ekskul/kaligrafi.png" alt="" class="img-fluid mb-3">
                         </div>
                         <div class="p-3">
                             <h5>Kaligrafi</h5>
@@ -82,11 +82,11 @@
                 <div class="col-md-6 col-lg-4">
                     <div class="bg-white rounded shadow-sm h-100 text-center overflow-hidden h-100">
                         <div class="facility-img">
-                            <img src="assets/img/app/master_bg.jpg" alt="" class="img-fluid mb-3">
+                            <img src="assets/img/ekskul/pidato.png" alt="" class="img-fluid mb-3">
                         </div>
                         <div class="p-3">
-                            <h5>English Club</h5>
-                            <p>Belajar Bahasa Inggris secara menyenangkan melalui games, speaking, dan story telling.</p>
+                            <h5>Pidato</h5>
+                            <p>Ekstrakurikuler pidato membina kemampuan berbicara di depan umum, melatih keberanian, retorika, serta penyampaian pesan yang efektif dan inspiratif.</p>
                         </div>
                     </div>
                 </div>
@@ -95,7 +95,7 @@
                 <div class="col-md-6 col-lg-4">
                     <div class="bg-white rounded shadow-sm h-100 text-center overflow-hidden h-100">
                         <div class="facility-img">
-                            <img src="assets/img/app/master_bg.jpg" alt="" class="img-fluid mb-3">
+                            <img src="assets/img/ekskul/tahfidz.png" alt="" class="img-fluid mb-3">
                         </div>
                         <div class="p-3">
                             <h5>Tahfidz Qur’an</h5>
