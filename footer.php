@@ -9,9 +9,9 @@
                     <p>Prubungan, Sidomukti</p>
                     <p>Kec. Bungah, Kabupaten Gresik, Jawa Timur</p>
                     <p class="mt-3">
-                        <strong>Phone:</strong> <span>08234757483737</span>
+                        <strong>Phone:</strong> <span>081232643577</span>
                     </p>
-                    <p><strong>Email:</strong> <span>minurulumum@gmail.com</span></p>
+                    <p><strong>Email:</strong> <span>mim.nurul.ulum.sidomukti@gmail.com</span></p>
                 </div>
                 <div class="social-links d-flex mt-4">
                     <a href=""><i class="bi bi-twitter-x"></i></a>
