@@ -35,11 +35,11 @@
             <div class="col-lg-2 col-md-3 footer-links">
                 <h4>Layanan Kami</h4>
                 <ul>
-                    <li><a href="bimbingan-konseling">Bimbingan & Konseling</a></li>
-                    <li><a href="perpustakaan">Perpustakaan Sekolah</a></li>
-                    <li><a href="layanan-kesiswaan">Layanan Kesiswaan</a></li>
-                    <li><a href="layanan-keagamaan">Layanan Keagamaan</a></li>
-                    <li><a href="kegiatan-ekstra">Kegiatan Ekstrakurikuler</a></li>
+                    <li><a href="#">Bimbingan & Konseling</a></li>
+                    <li><a href="#">Perpustakaan Sekolah</a></li>
+                    <li><a href="#">Layanan Kesiswaan</a></li>
+                    <li><a href="#">Layanan Keagamaan</a></li>
+                    <li><a href="#">Kegiatan Ekstrakurikuler</a></li>
                 </ul>
             </div>
         </div>
