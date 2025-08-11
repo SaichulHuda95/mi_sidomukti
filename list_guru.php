@@ -55,7 +55,7 @@
                                 <div class="col-md-6 col-lg-4">
                                     <div class="faculty-card">
                                         <div class="faculty-image">
-                                            <img src="assets/img/person/default.jpg" class="img-fluid" alt="Faculty Member">
+                                            <img src="assets/img/person/kamad.jpg" class="img-fluid" alt="Faculty Member">
                                         </div>
                                         <div class="faculty-info">
                                             <h4>Rozikin, S. Ag</h4>
@@ -74,7 +74,7 @@
                                 <div class="col-md-6 col-lg-4">
                                     <div class="faculty-card">
                                         <div class="faculty-image">
-                                            <img src="assets/img/person/default.jpg" class="img-fluid" alt="Faculty Member">
+                                            <img src="assets/img/person/wakamad_1.JPG" class="img-fluid" alt="Faculty Member">
                                         </div>
                                         <div class="faculty-info">
                                             <h4>H. Nur aini, S.Pd.I</h4>
@@ -85,7 +85,7 @@
                                 <div class="col-md-6 col-lg-4">
                                     <div class="faculty-card">
                                         <div class="faculty-image">
-                                            <img src="assets/img/person/default.jpg" class="img-fluid" alt="Faculty Member">
+                                            <img src="assets/img/person/wakamad_2.JPG" class="img-fluid" alt="Faculty Member">
                                         </div>
                                         <div class="faculty-info">
                                             <h4>H. Maksum, S. Pd.I</h4>
@@ -96,7 +96,7 @@
                                 <div class="col-md-6 col-lg-4">
                                     <div class="faculty-card">
                                         <div class="faculty-image">
-                                            <img src="assets/img/person/default.jpg" class="img-fluid" alt="Faculty Member">
+                                            <img src="assets/img/person/wakamad_3.JPG" class="img-fluid" alt="Faculty Member">
                                         </div>
                                         <div class="faculty-info">
                                             <h4>Mahsun, S.Pd</h4>
@@ -115,7 +115,7 @@
                                 <div class="col-md-6 col-lg-4">
                                     <div class="faculty-card">
                                         <div class="faculty-image">
-                                            <img src="assets/img/person/default.jpg" class="img-fluid" alt="Faculty Member">
+                                            <img src="assets/img/person/guru_1.JPG" class="img-fluid" alt="Faculty Member">
                                         </div>
                                         <div class="faculty-info">
                                             <h4>Rif’an</h4>
@@ -126,7 +126,7 @@
                                 <div class="col-md-6 col-lg-4">
                                     <div class="faculty-card">
                                         <div class="faculty-image">
-                                            <img src="assets/img/person/default.jpg" class="img-fluid" alt="Faculty Member">
+                                            <img src="assets/img/person/guru_2.JPG" class="img-fluid" alt="Faculty Member">
                                         </div>
                                         <div class="faculty-info">
                                             <h4>Mahmudah, S. Pd.I</h4>
@@ -137,7 +137,7 @@
                                 <div class="col-md-6 col-lg-4">
                                     <div class="faculty-card">
                                         <div class="faculty-image">
-                                            <img src="assets/img/person/default.jpg" class="img-fluid" alt="Faculty Member">
+                                            <img src="assets/img/person/guru_3.JPG" class="img-fluid" alt="Faculty Member">
                                         </div>
                                         <div class="faculty-info">
                                             <h4>Muzayyin, S. Pd.I</h4>
@@ -148,7 +148,7 @@
                                 <div class="col-md-6 col-lg-4">
                                     <div class="faculty-card">
                                         <div class="faculty-image">
-                                            <img src="assets/img/person/default.jpg" class="img-fluid" alt="Faculty Member">
+                                            <img src="assets/img/person/guru_4.JPG" class="img-fluid" alt="Faculty Member">
                                         </div>
                                         <div class="faculty-info">
                                             <h4>Hj. Machmudah, S. Pd.I</h4>
@@ -159,7 +159,7 @@
                                 <div class="col-md-6 col-lg-4">
                                     <div class="faculty-card">
                                         <div class="faculty-image">
-                                            <img src="assets/img/person/default.jpg" class="img-fluid" alt="Faculty Member">
+                                            <img src="assets/img/person/guru_5.JPG" class="img-fluid" alt="Faculty Member">
                                         </div>
                                         <div class="faculty-info">
                                             <h4>Siti Nur Badriyah, S. Ag</h4>
@@ -170,7 +170,7 @@
                                 <div class="col-md-6 col-lg-4">
                                     <div class="faculty-card">
                                         <div class="faculty-image">
-                                            <img src="assets/img/person/default.jpg" class="img-fluid" alt="Faculty Member">
+                                            <img src="assets/img/person/guru_6.JPG" class="img-fluid" alt="Faculty Member">
                                         </div>
                                         <div class="faculty-info">
                                             <h4>Nasikin</h4>
@@ -181,7 +181,7 @@
                                 <div class="col-md-6 col-lg-4">
                                     <div class="faculty-card">
                                         <div class="faculty-image">
-                                            <img src="assets/img/person/default.jpg" class="img-fluid" alt="Faculty Member">
+                                            <img src="assets/img/person/guru_7.JPG" class="img-fluid" alt="Faculty Member">
                                         </div>
                                         <div class="faculty-info">
                                             <h4>Imroatul Mufidah, S. Pd.I</h4>
@@ -192,7 +192,7 @@
                                 <div class="col-md-6 col-lg-4">
                                     <div class="faculty-card">
                                         <div class="faculty-image">
-                                            <img src="assets/img/person/default.jpg" class="img-fluid" alt="Faculty Member">
+                                            <img src="assets/img/person/guru_8.JPG" class="img-fluid" alt="Faculty Member">
                                         </div>
                                         <div class="faculty-info">
                                             <h4>Hj. Nur Fasichah, SE</h4>
@@ -203,7 +203,7 @@
                                 <div class="col-md-6 col-lg-4">
                                     <div class="faculty-card">
                                         <div class="faculty-image">
-                                            <img src="assets/img/person/default.jpg" class="img-fluid" alt="Faculty Member">
+                                            <img src="assets/img/person/guru_9.JPG" class="img-fluid" alt="Faculty Member">
                                         </div>
                                         <div class="faculty-info">
                                             <h4>Mas’ulah, S. Pd.I</h4>
@@ -214,7 +214,7 @@
                                 <div class="col-md-6 col-lg-4">
                                     <div class="faculty-card">
                                         <div class="faculty-image">
-                                            <img src="assets/img/person/default.jpg" class="img-fluid" alt="Faculty Member">
+                                            <img src="assets/img/person/guru_10.JPG" class="img-fluid" alt="Faculty Member">
                                         </div>
                                         <div class="faculty-info">
                                             <h4>Devita Fitri Ilmi Firnanda, S.Hum</h4>
@@ -233,7 +233,7 @@
                                 <div class="col-md-6 col-lg-4">
                                     <div class="faculty-card">
                                         <div class="faculty-image">
-                                            <img src="assets/img/person/default.jpg" class="img-fluid" alt="Faculty Member">
+                                            <img src="assets/img/person/tu_1.JPG" class="img-fluid" alt="Faculty Member">
                                         </div>
                                         <div class="faculty-info">
                                             <h4>Nuru Lailah, SE</h4>
