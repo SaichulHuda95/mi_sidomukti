@@ -27,21 +27,9 @@
 
             <div class="row justify-content-center gy-4">
                 <div class="col-lg-8">
-                    <div class="bg-light p-4 rounded shadow-sm">
-                        <img src="assets/img/app/struktur_organisasi.png" alt="" width="100%">
-                    </div>
+                    <img src="assets/img/struktur_organisasi/struktur_organisasi.png" alt="" width="100%">
                 </div>
             </div>
-
-            <!-- Gambar Bagan (Opsional, jika ada) -->
-            <!--
-        <div class="row mt-5 justify-content-center">
-            <div class="col-lg-10 text-center">
-                <img src="assets/img/struktur_organisasi.jpg" alt="Bagan Struktur Organisasi" class="img-fluid rounded shadow">
-                <p class="text-muted mt-2">Bagan visual struktur organisasi MI Nurul Ulum Sidomukti</p>
-            </div>
-        </div>
-        -->
 
         </div>
     </section>

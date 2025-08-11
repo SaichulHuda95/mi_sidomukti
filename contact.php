@@ -55,8 +55,7 @@
                         </div>
                         <div class="info-content">
                             <h4>Jam Operasional</h4>
-                            <p>Selasa - Kamis: 06.30 - 13.00</p>
-                            <p>Sabtu - Minggu: 06.30 - 13.00</p>
+                            <p>Sabtu - Kamis: 06.30 - 13.00</p>
                         </div>
                     </div>
                 </div>
